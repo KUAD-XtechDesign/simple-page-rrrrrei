@@ -1,0 +1,26 @@
+
+body{
+    background-color: #dcdcdc;
+    /* background-image: url(../images/back.png);
+    background-repeat: rpeat;
+    background-size: 20px 20px; */
+}
+
+.wrapper{
+    width: 1000px;
+    background-color: #fff;
+    margin: 30px auto;
+    text-align: center;
+    padding: 10px;
+}
+
+img{
+    max-width: 100%;
+}
+
+#slide{
+    border: 10px solid #000;
+    border-radius: 20px;
+    overflow: hidden;
+
+}
