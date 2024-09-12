@@ -6,6 +6,10 @@ body{
   line-height: 1.8;
 }
 
+.practice_page{
+  background-color: rgb(225, 196, 253);
+}
+
 img{
   max-width: 100%;
   height: auto;
@@ -32,6 +36,7 @@ img.frame{
   padding-bottom: 10px;
   font-size: 1.2em;
   border-bottom: 1px solid #ddd;
+  color: rgb(185, 124, 243);
 }
 
 .btns{
@@ -49,3 +54,4 @@ img.frame{
 .btns .prev{
   margin-right: auto;
 }
+
